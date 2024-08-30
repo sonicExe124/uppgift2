@@ -1,11 +1,14 @@
 body {
     margin: 0;
+    font-weight: 500;
+    font-family: sans-serif;
 }
 
 header {
     background-color: darkcyan;
     padding-block: 2rem;
     padding-inline: 1rem;
+    font-weight: 900;
 }
 
 footer {
