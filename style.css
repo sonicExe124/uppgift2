@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: darkcyan;
+    padding-block: 2rem;
+    padding-inline: 1rem;
+}
+
+footer {
+    background-color: lightseagreen;
+}
+
+.primary-navigation {
+    display: flex;
+
+    gap: 1rem; /*separate*/
+
+    list-style: none;
+    color: white;
+}
